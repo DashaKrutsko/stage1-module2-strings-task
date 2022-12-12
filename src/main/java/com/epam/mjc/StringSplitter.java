@@ -2,8 +2,6 @@ package com.epam.mjc;
 
 import java.util.*;
 
-import static java.util.stream.Collectors.toList;
-
 public class StringSplitter {
 
     /**
